@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sahil Choudhari
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub)
+![Header](./images/header.png)
 
 ## 🚀 About Me
 
