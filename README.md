@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Sahil Choudhari
 
-![Header](./images/header.png)
 
 ## 🚀 About Me
 
